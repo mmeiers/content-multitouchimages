@@ -19,7 +19,7 @@
 			delay: 300,
 			tolerance: 0.25,  
 			enableDrag: true,
-			showArrow: true,
+			showArrow: false,
 			showButton: true,
 			slideShow: false,
 			slideShowDelay: 3000
@@ -118,8 +118,8 @@
 				} 			
 			}
 			xdiff = 0; 
-			if(buttonCon)buttonCon.delay(400).fadeOut();  				
-			if(arrowButton)arrowButton.delay(400).fadeOut();
+			if(buttonCon)buttonCon.delay(400).fadeIn();  				
+			if(arrowButton)arrowButton.delay(400).fadeIn();
 			return false;            
 		})    
 		
@@ -184,8 +184,8 @@
 		});           
 		
 		parent.mouseleave(function (event){
-			if(buttonCon)buttonCon.fadeOut(); 
-			if(arrowButton)arrowButton.fadeOut();
+			if(buttonCon)buttonCon.fadeIn(); 
+			if(arrowButton)arrowButton.fadeIn();
 		});  
 		
   		// add the circle buttons
@@ -250,7 +250,7 @@
 				if(bannerArr[_preBannerNum]){
 					// if(bannerArr[_preBannerNum].children().length>1){
 						if(!($.browser.msie||$.browser.opera)){
-						 	bannerArr[_preBannerNum].fadeOut();
+						 	bannerArr[_preBannerNum].fadeIn();
 						} 
 					
 					// }       

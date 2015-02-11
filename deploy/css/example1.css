@@ -19,7 +19,7 @@ body{
 	margin: 0;
 	width: 960px;
 	height: 420px;   
-	background: #EFEFEF url(../images/assets/paven.png) repeat;    
+	background-color: #0074bf;  
 	position: relative;
 	overflow: hidden;
 
@@ -98,7 +98,6 @@ body{
 	position: relative;
 	float: left;
 	margin: 120px 12px 0 540px;    
-	background: #B22222;     
 	padding: 8px;
 	color: #FFFFFF;
 	font-size: 40px;
@@ -112,7 +111,6 @@ body{
 	float: left;
 	margin: 12px 12px 0 540px;
 	color: #FFFFFF;  
-	background: #A0522D;
 	padding: 8px;
 	font-size: 22px;
 }                   

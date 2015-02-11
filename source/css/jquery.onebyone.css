@@ -9,7 +9,8 @@
 .buttonCon{  
     float: left;
     left: -50%;
-    position: relative;        
+    position: relative; 
+	opacity: 1;
 }
 .buttonCon .theButton {
 	display: block;
