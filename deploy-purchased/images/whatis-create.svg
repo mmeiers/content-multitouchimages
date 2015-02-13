@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
-<path fill="#6FBEC4" d="M292.3,40.5c0-5.5-4.5-10.1-10.1-10.1H20.6c-5.5,0-10.1,4.5-10.1,10.1v150.9h281.7V40.5z"/>
-<rect x="30.7" y="50.5" fill="#FFFFFF" width="140.9" height="120.7"/>
-<g>
-	<rect x="166.5" y="45.5" fill="#6FBEC4" width="10.1" height="130.8"/>
+<g id="Layer_2">
 </g>
-<path fill="#252C3D" d="M282.2,40.5v140.9H20.6V40.5H282.2L282.2,40.5z M282.2,30.4H20.6c-5.5,0-10.1,4.5-10.1,10.1v150.9h281.7
-	V40.5C292.3,34.9,287.7,30.4,282.2,30.4L282.2,30.4z"/>
-<circle fill="#2B3B49" cx="151.4" cy="211.5" r="5"/>
-<path fill="#FFFFFF" d="M10.6,191.4v30.2c0,5.5,4.5,10.1,10.1,10.1h261.6c5.5,0,10.1-4.5,10.1-10.1v-30.2H10.6z"/>
-<circle fill="#252C3D" cx="151.4" cy="211.5" r="5"/>
-<g>
-	<polygon fill="#F0EEEE" points="111.2,271.9 191.7,271.9 182.8,236.6 120,236.6 	"/>
-	<polygon fill="#ACAEB3" points="121.2,231.6 120,236.6 182.8,236.6 181.6,231.6 	"/>
+<g id="Layer_1">
+	<g>
+		<path fill="#6FBEC4" d="M296.8,10.6C296.8,4.8,292,0,286.2,0H10.6C4.8,0,0,4.8,0,10.6v159h296.8V10.6z"/>
+		<rect x="21.2" y="21.2" fill="#FFFFFF" width="148.4" height="127.2"/>
+		<g>
+			<rect x="164.3" y="15.9" fill="#6FBEC4" width="10.6" height="137.8"/>
+		</g>
+		<path fill="#252C3D" d="M286.2,10.6V159H10.6V10.6H286.2L286.2,10.6z M286.2,0H10.6C4.8,0,0,4.8,0,10.6v159h296.8v-159
+			C296.8,4.8,292,0,286.2,0L286.2,0z"/>
+		<circle fill="#2B3B49" cx="148.4" cy="190.8" r="5.3"/>
+		<path fill="#FFFFFF" d="M0,169.6v31.8c0,5.8,4.8,10.6,10.6,10.6h275.6c5.8,0,10.6-4.8,10.6-10.6v-31.8H0z"/>
+		<circle fill="#252C3D" cx="148.4" cy="190.8" r="5.3"/>
+		<g>
+			<polygon fill="#F0EEEE" points="106,254.4 190.8,254.4 181.5,217.3 115.3,217.3 			"/>
+			<polygon fill="#ACAEB3" points="116.6,212 115.3,217.3 181.5,217.3 180.2,212 			"/>
+		</g>
+		<g>
+			<rect x="84.8" y="243.8" fill="#FFFFFF" width="127.2" height="10.6"/>
+		</g>
+		<rect x="10.6" y="10.6" fill="#4B5155" width="275.6" height="148.4"/>
+	</g>
 </g>
-<g>
-	<rect x="91" y="261.8" fill="#FFFFFF" width="120.7" height="10.1"/>
-</g>
-<rect x="20.6" y="40.5" fill="#4B5155" width="261.6" height="140.9"/>
-<rect x="39.4" y="94.6" fill="none" width="243.2" height="70.6"/>
-<text transform="matrix(1 0 0 1 39.3964 134.9314)" fill="#48B768" font-family="'LucidaGrande'" font-size="52.3167">&lt;HTML&gt;</text>
 </svg>

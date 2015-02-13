@@ -15,8 +15,8 @@
 			sliderClassName: 'oneByOne_item',
 			pauseByHover: false,
 			easeType: 'fadeInLeft',
-			width: 960,
-			height: 420,
+			width: 1920,
+			height: 1080,
 			minWidth: 480,
 			delay: 300,
 			tolerance: 0.25,
@@ -24,7 +24,7 @@
 			showArrow: true,
 			showButton: true,
 			slideShow: false,
-			slideShowDelay: 5000,
+			slideShowDelay: 10000,
 			responsive: false,
 			autoHideButton: true
 		};

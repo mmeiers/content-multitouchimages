@@ -28,9 +28,13 @@ body{
 
 }  
 
-#green{
+#green {
 	background-color: #3bad65;
 	
+}
+
+.bold {
+	font-weight: 600;
 }
 
 #banner .oneByOne_item{
@@ -81,28 +85,82 @@ body{
 	padding: 8px;             
 }     
                     
-  
-
-#banner img.wp1_1{
+#banner img.createImg1{
 	position: absolute;
 	top: 20vh;
 	left: 60vw;
-	width:30vw;
+	width:35vw;
 }
-#banner img.wp1_2{
+#banner img.createImg2{
+	position: absolute;
+	top: 20vh;
+	left: 60vw;
+	width:35vw;
+}              
+#banner img.createImg3{
+	position: absolute;
+	top: 20vh;
+	left: 60vw;
+	width:35vw;
+}  
+
+#banner img.createImg4{
+	position: absolute;
+	top: 20vh;
+	left: 60vw;
+	width:35vw;
+}  
+
+#banner img.displayImg1{
+	position: absolute;
+	top: 20vh;
+	left: 60vw;
+	width:35vw;
+}
+#banner img.displayImg2{
 	position: absolute;
 	top: 35vh;
 	left: 60vw;
-	width:30vw;
+	width:35vw;
 }              
 #banner img.wp1_3{
 	position: absolute;
 	top: 20vh;
 	left: 60vw;
-	width:30vw;
-}   
+	width:35vw;
+}  
 
-#banner .oneByOne_item span.txt1{
+#banner img.wp1_4{
+	position: absolute;
+	top: 20vh;
+	left: 60vw;
+	width:35vw;
+}  
+
+#banner .oneByOne_item span.aboutTxt1{ 
+  	clear: left;
+	position: relative;
+	float: left;
+	margin: 20vh 5vw 1vh 5vw;    
+	color: #ffffff;
+	font-size: 4vw;
+	width:80vw;
+	font-weight: 300;
+
+}
+ 
+#banner .oneByOne_item span.aboutTxt2{ 
+  	clear: left;
+	position: relative;
+	float: left;
+	margin: 0px 5vw 0 5vw;
+	color: #FFFFFF;  
+	font-size: 3vw;
+	width:80vw;
+	font-weight: 200;
+}  
+
+#banner .oneByOne_item span.createTxt1{
 	clear: left;
 	position: relative;
 	float: left;
@@ -112,10 +170,8 @@ body{
 	width:50vw;
 	font-weight: 500;
 } 
-#banner .oneByOne_item  span.txt1 a{
-	color: #FFFFFF;
-}         
-#banner .oneByOne_item span.txt2{
+       
+#banner .oneByOne_item span.createTxt2{
 	clear: left;
 	position: relative;
 	float: left;
@@ -124,23 +180,45 @@ body{
 	font-size: 3vw;
 	width:50vw;
 	font-weight: 200;
-}                   
+}
+
+#banner .oneByOne_item span.displayTxt1{
+	clear: left;
+	position: relative;
+	float: left;
+	margin: 20vh 5vw 1vh 5vw;    
+	color: #FFFFFF;
+	font-size: 3vw;
+	width:50vw;
+	font-weight: 500;
+} 
+       
+#banner .oneByOne_item span.displayTxt2{
+	clear: left;
+	position: relative;
+	float: left;
+	margin: 0px 5vw 0 5vw;
+	color: #FFFFFF;  
+	font-size: 3vw;
+	width:50vw;
+	font-weight: 200;
+}    
     
 
  
-#banner img.wp1{
+#banner img.manageImg1{
 	position: absolute;
 	top: 50vh;
 	left: 10vw;
 	width:20vw
 }
-#banner img.wp2{
+#banner img.manageImg2{
 	position: absolute;
 	top: 50vh;
 	left: 40vw;
 	width:20vw
 }              
-#banner img.wp3{
+#banner img.manageImg3{
 	position: absolute;
 	top: 50vh;
 	left: 70vw;
@@ -177,7 +255,7 @@ body{
 
 }
 
-#banner .oneByOne_item span.slide5Txt1{ 
+#banner .oneByOne_item span.manageTxt1{ 
   	clear: left;
 	position: relative;
 	float: left;
@@ -185,10 +263,10 @@ body{
 	color: #FFFFFF;
 	font-size: 3vw;
 	width:80vw;
-	font-weight: 500;      
+	font-weight: 600;      
 }
  
-#banner .oneByOne_item span.slide5Txt2{ 
+#banner .oneByOne_item span.manageTxt2{ 
   	clear: left;
 	position: relative;
 	float: left;
