@@ -85,13 +85,15 @@ body{
 
 #banner img.wp1_1{
 	position: absolute;
-	top: 255px;
-	left: 512px;
+	top: 20vh;
+	left: 60vw;
+	width:30vw;
 }
 #banner img.wp1_2{
 	position: absolute;
-	top: 190px;
-	left: 360px;
+	top: 35vh;
+	left: 60vw;
+	width:30vw;
 }              
 #banner img.wp1_3{
 	position: absolute;
