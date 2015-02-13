@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>jQuery OneByOne Slider Plugin</title>
+  	<script src="js/jquery.1.9.1.min.js"></script>
+    <script src="js/modernizr.custom.49511.js"></script>
+    <script src="js/jquery.onebyone.min.js"></script>
+	<script src="js/jquery.touchwipe.min.js"></script>
+    <script type="text/javascript" charset="utf-8">
+	 $(document).ready(function() {
+        $('#banner').oneByOne({
+			className: 'oneByOne1',
+			easeType: 'random',
+			showArrow: true,
+			slideShow: true
+		});
+
+
+	 });
+
+
+    </script>
+    <link href="css/jquery.onebyone.css" rel="stylesheet" type="text/css">
+    <link href="css/animate.min.css" rel="stylesheet" type="text/css">
+    <link href="css/example1.css" rel="stylesheet" type="text/css">
+	<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,600,500,700,200,100' rel='stylesheet' type='text/css'>
+
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="banner">
+		<div class="oneByOne_item">
+			<img src="images/whatis-about.png" class="wp1_3" data-animate="flipInX" alt=""></img>
+			<!--<img src="images/example1/item1/wordpress-128x128.png" class="wp1_2" alt=""></img>
+			<img src="images/example1/item1/wordpress-64x64.png" class="wp1_1" alt=""></img>-->
+			<span class="txt1" data-animate="bounceInRight">Rise Vision - </span>
+			<span class="txt2" data-animate="bounceInRight">is an enterprise digital signage platform. We have evertying you need to create, manage, and display your amazing content.</span>
+		</div>
+		<div id="green" class="oneByOne_item">
+			<img src="images/whatis-create.png" class="wp1_3" data-animate="bounceIn"></img>
+			<span class="txt1" data-animate="bounceIn">Create</span>
+			<span class="txt2" data-animate="rollIn">You can use your favorite editor such as Brackets or Sublime Text to create amazing HTML content.  If you’re not comfortable coding, we also offer a basic editor with several free widgets to aid you in creating engaging presentations.</span>
+			<!--<span class="slide2Txt3">Now you can customize each element's animation</span>-->
+		</div>
+
+		<div class="oneByOne_item">
+			<span class="slide5Txt1">Manage</span>
+			<span class="slide5Txt2">Distribute or schedule your content to meet your specific needs. Create user roles for your team so they can appropriate manage your displays.</span>
+			<img src="images/whatis-manage1.png" class="wp1" data-animate="bounceIn" alt=""></img>
+			<img src="images/whatis-manage2.png" class="wp2" data-animate="bounceIn" alt=""></img>
+			<img src="images/whatis-manage3.png" class="wp3" data-animate="bounceIn" alt=""></img>
+		</div>
+
+		<div id="green" class="oneByOne_item">
+			<!--<img src="images/example1/bigimage.jpg"  class="bigImage" ></img>-->
+<img src="images/whatis-display2.png" class="wp1_3" data-animate="rollIn" alt=""></img>
+<img src="images/whatis-display1.png" class="wp1_3" data-animate="bounceIn" alt=""></img>
+			<span class="txt1">Display</span>
+			<span class="txt2">With our Chrome App you can leverage Chromeboxes, Windows, Linux, or Mac media players to present your content on interactive touch screens, video walls, or LED/LCD monitors of any size.</span>
+		</div>
+		</div>
+
+        </div>
+
+</body>
+</html>
