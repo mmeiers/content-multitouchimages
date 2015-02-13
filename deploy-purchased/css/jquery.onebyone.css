@@ -26,25 +26,6 @@
 	background-position: 0 -22px;
 }             
 
-.arrowButton{    
-	cursor: pointer;  
-}            
-.arrowButton .prevArrow{
-	/*background: url(../images/assets/prev.png) no-repeat;*/
-	width: 40px;
-	height: 80px;      
-	position: absolute;
-	top: 170px;	 
-	left: 12px;        
-} 
-.arrowButton .nextArrow{                 
-	background: url(../images/assets/next.png) no-repeat;
-	width: 40px;
-	height: 80px;
-	position: absolute;
-	top: 170px;
-	right: 12px;	          
-}   
 
 .animate0{
    	-webkit-animation-duration: .6s;
