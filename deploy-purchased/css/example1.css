@@ -126,9 +126,9 @@ body{
 
 #banner img.displayImg3{
 	position: absolute;
-	top: 45vh;
-	left: 50vw;
-	width:35vw;
+	top: 55vh;
+	left: 55vw;
+	width:30vw;
 }  
 
 #banner img.wp1_3{
@@ -216,19 +216,19 @@ body{
  
 #banner img.manageImg1{
 	position: absolute;
-	top: 50vh;
+	top: 55vh;
 	left: 10vw;
 	width:20vw
 }
 #banner img.manageImg2{
 	position: absolute;
-	top: 50vh;
+	top: 55vh;
 	left: 40vw;
 	width:20vw
 }              
 #banner img.manageImg3{
 	position: absolute;
-	top: 50vh;
+	top: 55vh;
 	left: 70vw;
 	width:20vw
 }   
