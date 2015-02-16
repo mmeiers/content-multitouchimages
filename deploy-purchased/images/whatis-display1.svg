@@ -4,13 +4,15 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
 <g>
-	<rect x="62.9" fill="#4A5054" width="374.2" height="242.1"/>
+	<rect x="74" y="0" fill="#4A5054" width="349" height="225.8"/>
 	<g>
-		<rect x="73.9" y="11" fill="#62C0ED" width="352.1" height="220.1"/>
+		<rect x="84.2" y="10.3" fill="#62C0ED" width="328.5" height="205.3"/>
 	</g>
 	<g>
-		<path opacity="0.25" fill="#DFDFDF" d="M337.7,242.1H62.9V0h32.7L337.7,242.1z M386.5,231.1L166.5,11l-11-11h-44.9l11,11
-			l231.1,231.1h44.9L386.5,231.1z"/>
+		<path opacity="0.25" fill="#DFDFDF" d="M317.4,216.4H84.2V10.9h27.7L317.4,216.4z M358.7,207L172,20.3l-9.4-9.4h-38.1l9.4,9.4
+			L330,216.4h38.1L358.7,207z"/>
 	</g>
+	<path fill="#47B667" d="M405.7,224.4h-0.9c-1.6,0-3-1.3-3-3v-0.9c0-1.6,1.4-3,3-3h0.9c1.6,0,3,1.4,3,3v0.9
+		C408.7,223.1,407.3,224.4,405.7,224.4z"/>
 </g>
 </svg>
