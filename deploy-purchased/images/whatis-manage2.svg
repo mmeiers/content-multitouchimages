@@ -3,22 +3,13 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
-<rect x="194.3" y="382.2" fill="#FFFFFF" width="111.1" height="83.4"/>
-<rect x="33.2" y="382.2" fill="#FFFFFF" width="111.1" height="83.4"/>
-<rect x="355.7" y="382.2" fill="#FFFFFF" width="111.1" height="83.4"/>
-<rect x="244.8" y="215.3" fill="#5E6E7F" width="10.1" height="166.8"/>
-<rect x="83.7" y="293.3" fill="#5E6E7F" width="10.1" height="88.9"/>
-<rect x="406.2" y="293.3" fill="#5E6E7F" width="10.1" height="88.9"/>
-<rect x="83.2" y="293.6" fill="#5E6E7F" width="333.6" height="10.1"/>
-<rect x="238.9" y="287.6" fill="#364A5E" width="22.3" height="22.3"/>
-<rect x="77.5" y="287.6" fill="#364A5E" width="22.3" height="22.3"/>
-<rect x="400.2" y="287.6" fill="#364A5E" width="22.3" height="22.3"/>
 <g>
-	<rect x="110.2" y="34.4" fill="#20262D" width="279.4" height="180.9"/>
-	<g>
-		<rect x="118.6" y="42.6" fill="#73CFF3" width="263.1" height="164.3"/>
-		<path opacity="0.25" fill="#E0E1E0" enable-background="new    " d="M315.6,215.3H110.2V34.4h24.5L315.6,215.3z M352,206.9
-			L187.6,42.6l-8.2-8.2h-33.7l8.2,8.2l172.8,172.8h33.4L352,206.9z"/>
-	</g>
+	<path fill="#FFFFFF" d="M225,302.3V272h30.5l25.5-23.6V216h34.8l20.1-21H148v136h47.2L225,302.3z M225,216h37v37h-37V216z M167,216
+		h37v37h-37V216z M167,272h37v37h-37V272z"/>
+	<path fill="#4DB867" d="M162.6,386H395V166.9L162.6,386z M262,374.5V331h37.2L262,374.5z M318,374.5V309h57.2L318,374.5z
+		 M340,300.4V253h35.2L340,300.4z"/>
+	<path fill="#FFFFFF" d="M390.2,145.4c-3.5-4.1-9.8-6.4-15.5-6.4H358v-19.6c0-5.2-6.6-8.4-11.8-8.4h-57c-5.2,0-8.2,3.2-8.2,8.4V139
+		h-77v-19.6c0-5.2-4.5-8.4-9.7-8.4h-57c-5.2,0-7.3,3.2-7.3,8.4V139h-21.2c-10.5,0-18.8,7.9-18.8,18.4v208.9
+		c0,10.5,8.3,19.7,18.8,19.7h26.1l40.2-37H130V176h228v0.6L390.2,145.4z M185,158h-37v-28h37V158z M340,158h-40v-28h40V158z"/>
 </g>
 </svg>

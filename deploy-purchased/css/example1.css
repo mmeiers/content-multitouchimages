@@ -119,10 +119,18 @@ body{
 }
 #banner img.displayImg2{
 	position: absolute;
-	top: 35vh;
-	left: 60vw;
+	top: 30vh;
+	left: 70vw;
+	width:30vw;
+}
+
+#banner img.displayImg3{
+	position: absolute;
+	top: 45vh;
+	left: 50vw;
 	width:35vw;
-}              
+}  
+
 #banner img.wp1_3{
 	position: absolute;
 	top: 20vh;
