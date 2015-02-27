@@ -2,7 +2,37 @@
 
 body{
 	font-family: 'Raleway', sans-serif;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
   }
+
+button {
+	position: absolute;
+	right:2vw;
+	bottom: 2vw;
+	color:white;
+	width:160px;
+	height:40px;
+	background-color:#48B768;
+	border:none;
+	text-decoration: none;
+	outline: none;
+	z-index: 99;
+	font-size: 16px;
+	border-radius: 3px;
+}
+		
+button:hover{
+	background-color: #3D9656 ;
+}
+
+button img {
+	position:absolute;
+	top:5px;
+	left:14px;
+	height:30px;
+}
 
    #zoomwrapper {
     height: 100vh;
@@ -64,7 +94,13 @@ body{
     position:absolute;
   }
 
-
+#logo {
+	
+	position: absolute;
+	left:5vw;
+	top:80vh;
+	
+}
   
   .polaroid{
 

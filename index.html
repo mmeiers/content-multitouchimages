@@ -7,6 +7,19 @@
     
     <link href='style.css' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Raleway:400,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
+	
+	<!-- Sign up Free button with QR Code -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>	
+<script>
+	$(document).ready(function () {
+    
+    $('button').click( function () {
+        $('#message-box').slideDown('slow').delay(12000).slideUp('slow');
+    });
+    
+});
+	</script>
+	
 </head>
 
 <body>
@@ -42,7 +55,13 @@
     </div>
 </div>
 
-
+<!-- Sign up Free button with QR Code -->
+<button><img src="images/google_256.png"/>&ensp;&ensp;Sign Up Free</button>
+<div id="message-box"><img src="images/qrcode.png"/></div>
+		<div>
+			
+<img src="images/risevisionlogo.svg" alt="" width="200" height="200" />			
+			
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="hammer.js"></script>
 <script src="jquery.hammer.js"></script>
