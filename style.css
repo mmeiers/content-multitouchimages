@@ -33,8 +33,8 @@ body{
   background-image: linear-gradient(to bottom, #3498db, #2980b9);
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
+	text-transform: uppercase;
   border-radius: 3px;
-  font-family: Arial;
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
