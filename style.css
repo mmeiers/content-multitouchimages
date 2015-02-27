@@ -5,7 +5,19 @@ body{
 	overflow: hidden;
 	padding: 0;
 	margin: 0;
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
   }
+
+#logo {
+	
+	position: absolute;
+	left:2vw;
+	bottom:2vw;
+	width:10vw;
+	z-index: 99;
+	
+}
 
 button {
 	position: absolute;
@@ -34,6 +46,30 @@ button img {
 	height:30px;
 }
 
+#message-box {
+    display: none;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-family: helvetica neue, arial;
+    position: absolute;
+    bottom: 0;
+	z-index: 98;
+	vertical-align: middle;
+}
+		
+#message-box img{
+	position: absolute;
+	right:2vw;
+	bottom: 2vw;
+	width:160px;
+	margin: 0 auto;
+	padding: 0;
+	z-index: 98;
+}
+
    #zoomwrapper {
     height: 100vh;
     width: 100vw;
@@ -47,15 +83,15 @@ button img {
   	font-size: 50px;
   	color: #fff;
   	text-transform: uppercase;
-  	margin:5% 0 0 5%;
+  	margin:2vw 0 0 2vw;
   }
 
   #zoomwrapper p {
   	font-family: 'Raleway';
   	font-size: 30px;
   	color:#fff;
-  	margin: 0 0 0 5%;
-  	width: 70%;
+  	margin: 0 0 0 2vw;
+  	width: 80%;
   }
 
 #zoom {
@@ -83,8 +119,8 @@ button img {
   }
 
   #zoom5 {
-    top:350px;
-	left:680px;
+    top:450px;
+	left:600px;
 
   }
 
@@ -102,8 +138,8 @@ button img {
   }
 
   #zoom8 {
-    top:600px;
-	left:1000px;
+    top:550px;
+	left:950px;
 	
   }
 
@@ -137,19 +173,12 @@ button img {
     position:absolute;
   }
 
-#logo {
-	
-	position: absolute;
-	left:5vw;
-	top:80vh;
-	
-}
+
   
   .polaroid{
 
-	text-align: center;
-	  
-	padding: 10px 10px 25px 10px;
+text-align: center;  
+padding: 10px 10px 25px 10px;
 background: #eee;
 border: 1px solid #fff;
 -moz-box-shadow: 0px 2px 15px #333;
