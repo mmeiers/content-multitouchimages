@@ -5,6 +5,14 @@ $(function(){
 		    var zoom3 = new ZoomView('#zoom3','#zoom3 :first');
         var zoom4 = new ZoomView('#zoom4','#zoom4 :first');
         var zoom5 = new ZoomView('#zoom5','#zoom5 :first');
+	var zoom6 = new ZoomView('#zoom6','#zoom6 :first');
+        var zoom7 = new ZoomView('#zoom7','#zoom7 :first');
+	var zoom8 = new ZoomView('#zoom8','#zoom8 :first');
+        var zoom9 = new ZoomView('#zoom9','#zoom9 :first');
+	var zoom10 = new ZoomView('#zoom10','#zoom10 :first');
+        var zoom11 = new ZoomView('#zoom11','#zoom11 :first');
+	var zoom12 = new ZoomView('#zoom12','#zoom12 :first');
+ 
     });
 
 	
